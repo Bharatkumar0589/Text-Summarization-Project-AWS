@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: Bharatkumar0589
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: sbkvarma2@gmail.com
 
 ```
 
